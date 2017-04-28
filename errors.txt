@@ -1,0 +1,2 @@
+1 - Memory Buffer Error
+2 - Syntax Error
